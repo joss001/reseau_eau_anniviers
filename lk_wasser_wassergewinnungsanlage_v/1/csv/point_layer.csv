@@ -1,0 +1,45 @@
+X,Y,t_id,art,name_nummer,symbolori,lagebestimmung,lagebestimmung_code,hoehe,einbaujahr,druckzone,druckzone_bemerkung,bemerkung,art_code,leistung,eigentuemer,betreiber,konzessionaer,unterhaltspflichtiger,zustand,icon_url
+7.55807316288606,46.171733036733,"1",station de captage (captage eau de source),"14",247.2,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 230m,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55817019785182,46.1716978654592,"2",station de captage (captage eau de source),"14",379.7,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 2030m,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.56613961859677,46.1732957521565,"3",station de captage (chambre eau),,100,précis,"0",0,"1900",Grimentz,EP_Z_3,Alt. 1758m,"7","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.56800077396496,46.1705072064615,"4",station de captage (captage eau de source),"23",318.4,précis,"0",0,"1900",Grimentz,EP_Z_3,,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55929035262961,46.1728576062084,"5",station de captage (captage eau de source),"16",102,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 1995m,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55951293701353,46.1728409247173,"6",station de captage (chambre eau),,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,,"7","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55927811539936,46.1728132033088,"7",station de captage (captage eau de source),"17",269.6,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 1992m,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.5656727994522,46.1730495144778,"8",station de captage (captage eau de source),,240.9,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 1760,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55911625421462,46.1731781906658,"9",station de captage (captage eau de source),"15",121.1,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt 2005m,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.56569270862787,46.1732587109048,"10",station de captage (captage eau de source),,305.7,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 1760,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.56898717021069,46.1696262435223,"13",station de captage (chambre eau),,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Chambre de captage et de mise ne charge (pompage),"7","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.57180334239117,46.1714943269249,"14",station de captage (captage eau de source),22c,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.57156363682146,46.1712127047918,"15",station de captage (captage eau de source),22b,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.57136573896717,46.1710441469346,"16",station de captage (captage eau de source),22a,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.5714033454387,46.1713811760289,"17",station de captage (chambre eau),,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,,"7","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.56920852206296,46.1794241942708,"18",installation de traitement (inconnue),Mini-centrale,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 1735m,"12","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.61362518577,46.2207721120805,"19",station de captage (captage eau de rivière ou de lac),,100,précis,"0",0,"1900",Saint-Luc,EP_Z_5,,"6","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.54067844541566,46.1859453534707,"20",station de captage (captage eau de source),,82.6,inconnue,"1",0,"1900",Grimentz,EP_Z_3,2455m,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55025837152713,46.1778407079011,"22",station de captage (captage eau de source),"2",270,précis,"0",0,"1900",Grimentz,EP_Z_3,,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55127972126572,46.1790147945891,"23",station de captage (captage eau de source),"3",271.8,précis,"0",0,"1900",Grimentz,EP_Z_3,,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55405062609557,46.1814868536945,"24",station de captage (captage eau de source),"4",134.5,inconnue,"1",0,"1900",Grimentz,EP_Z_3,Alt. 2180,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.60739631997711,46.2498819095378,"25",station de captage (captage eau de source),,100,précis,"0",0,"1900",Chandolin,EP_Z_2,Ancien captage,"3","0.0",inconnue,inconnue,inconnue,inconnue,unbekannt/inconnue,./0.png
+7.55340626097708,46.2008112823413,"26",station de captage (captage eau de source),,0,précis,"0",,,St-Jean,EP_Z_6,,"3","0",,,,,,./0.png
+7.55630457802077,46.2004004509162,"27",station de captage (captage eau de source),,0,précis,"0",,,St-Jean,EP_Z_6,,"3","0",,,,,,./0.png
+7.55648276257344,46.2006098855041,"28",station de captage (captage eau de source),,0,précis,"0",,,St-Jean,EP_Z_6,,"3","0",,,,,,./0.png
+7.6178552238094,46.2182947097253,"30",station de captage (chambre eau),,0,inconnue,"1",,,Saint-Luc,EP_Z_5,,"7","0",inconnue,inconnue,inconnue,inconnue,,./0.png
+7.62233495299723,46.2149561903825,"31",station de captage (chambre eau),,0,inconnue,"1",,,Saint-Luc,EP_Z_5,,"7","0",inconnue,inconnue,inconnue,inconnue,,./0.png
+7.64101125521034,46.0977503442387,"32",station de captage (chambre eau),,0,inconnue,"1",,,Zinal,EP_Z_8,,"7","0",inconnue,inconnue,inconnue,inconnue,,./0.png
+7.6116546224148,46.2535884090204,"33",station de captage (chambre eau),,0,inconnue,"1",,"1900",Chandolin,EP_Z_2,,"7","0",,,,,,./0.png
+7.60964856356766,46.2518403631752,"34",station de captage (chambre eau),,0,inconnue,"1",,"1900",Chandolin,EP_Z_2,,"7","0",,,,,,./0.png
+7.64129903542369,46.0976894586994,"35",station de captage (captage eau de rivière ou de lac),,0,inconnue,"1",,"1900",Zinal,EP_Z_8,,"6","0",,,,,,./0.png
+7.64233354827338,46.096838808352,"36",station de captage (captage eau de rivière ou de lac),,0,inconnue,"1",,"1900",Zinal,EP_Z_8,,"6","0",,,,,,./0.png
+7.61824105823606,46.2185400283115,"37",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",inconnue,inconnue,inconnue,inconnue,,./0.png
+7.61801871695421,46.2186001759603,"38",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.61346953191933,46.2210798314076,"39",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.61326112469026,46.2210120509495,"40",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.61458454785364,46.2213443368812,"41",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.61477597703024,46.2213407180868,"42",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.62270935942885,46.2151278656138,"43",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.6228059180382,46.2150247267718,"44",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Saint-Luc,EP_Z_5,,"3","0",,,,,,./0.png
+7.64201753468326,46.096625760861,"45",station de captage (captage eau de source),,0,inconnue,"1",,"1900",Zinal,EP_Z_8,,"3","0",,,,,,./0.png
+7.55502051360122,46.1811513512663,"46",station de captage (chambre eau),,0,inconnue,"1",,"1900",Grimentz,EP_Z_3,,"7","0",,,,,,./0.png
+7.54368326308435,46.186525187199,"47",station de captage (inconnue),,0,inconnue,"1",,"1900",Grimentz,EP_Z_3,,"0","0",inconnue,inconnue,inconnue,inconnue,,./0.png
+7.59659544193101,46.2586211629412,"48",station de captage (inconnue),,0,inconnue,"1",,,Chandolin,EP_Z_2,,"0",,inconnue,inconnue,inconnue,inconnue,,./0.png

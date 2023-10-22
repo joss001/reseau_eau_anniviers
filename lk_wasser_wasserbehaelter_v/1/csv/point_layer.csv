@@ -1,0 +1,26 @@
+X,Y,t_id,art,name_nummer,art_code,beschichtung,ueberlaufhoehe,fassungsvermoegen,brauchwasserreserve,loeschwasserreserve,symbolori,lagebestimmung,lagebestimmung_code,hoehe,einbaujahr,druckzone,druckzone_bemerkung,eigentuemer,bemerkung,leistung,zustand,icon_url
+7.61686655097079,46.2137540948896,"1",inconnu,"20","0","0",0,0,0,0,100,inconnue,"1",0,"1900",Saint-Luc,EP_Z_5,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59537442768201,46.1860185300365,"2",grand réservoir,"24","1","0",0,0,0,0,389.1,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59659768925541,46.1842469720163,"3",inconnu,"25","0","0",0,0,0,0,0.8,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59921978901335,46.1835609317265,"4",inconnu,La Doux,"0","0",0,144,0,0,53.4,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.60480453895885,46.1788064697469,"5",grand réservoir,De Chiteau,"1","0",0,64,0,0,100,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.60751617240296,46.178263109183,"6",grand réservoir,D'AYER,"1","0",0,0,0,0,315,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.63613114585357,46.1344698458634,"7",grand réservoir,"23","1","0",0,0,0,0,100,inconnue,"1",0,"1900",Zinal,EP_Z_8,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.63274681260418,46.1357709403828,"8",réservoir de stockage,"21","2","0",0,0,0,0,109.9,inconnue,"1",0,"1900",Zinal,EP_Z_8,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59005349356172,46.1772584875873,"9",inconnu,R8,"0","0",0,0,0,0,100,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59008238778737,46.1772552106426,"10",inconnu,R5,"0","0",0,0,0,0,100,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59007887427222,46.1772349482637,"11",inconnu,R6,"0","0",0,0,0,0,100,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59005029603812,46.177235418162,"12",inconnu,R7,"0","0",0,0,0,0,100,inconnue,"1",0,"1900",Ayer,EP_Z_1,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.59338187639838,46.2524432475628,"13",réservoir de stockage,,"2","0",0,100,0,0,100,inconnue,"1",0,"1900",Chandolin,EP_Z_2,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.5624592169735,46.173046146966,"14",grand réservoir,,"1","0",1892,200,0,0,100,précis,"0",0,"1900",Grimentz,EP_Z_3,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.5712426336253,46.1781070981787,"15",grand réservoir,Réservoir la Côte,"1","0",0,0,0,0,100,précis,"0",0,"1900",Grimentz,EP_Z_3,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.56935349024919,46.1793002330426,"16",grand réservoir,,"1","0",1730,0,0,0,100,précis,"0",0,"1900",Grimentz,EP_Z_3,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.5771355692587,46.2607206630687,"17",réservoir de stockage,,"2","0",0,0,0,0,100,précis,"0",0,"1900",Chandolin,EP_Z_2,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.58911835118674,46.2165075868003,"18",grand réservoir,Les Rotsecs,"1","0",1310,0,0,0,100,inconnue,"1",0,"1900",Vissoie,EP_Z_7,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.60460675718103,46.2211552571114,"20",grand réservoir,,"1","0",0,0,0,0,100,inconnue,"1",0,"1900",Saint-Luc,EP_Z_5,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.55461146387674,46.1794255985572,"21",grand réservoir,,"1","0",1890,80,0,0,100,inconnue,"1",0,"1900",Grimentz,EP_Z_3,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.57884176062764,46.2099851668632,"22",grand réservoir,,"1","0",0,100,0,0,100,inconnue,"1",0,"1900",St-Jean,EP_Z_6,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.57964028468178,46.240793509957,"23",grand réservoir,,"1","0",0,0,0,0,133.4,inconnue,"1",0,"1900",Chandolin,EP_Z_2,inconnue,,inconnue/unbekannt,unbekannt/inconnue,./0.png
+7.5568008494263,46.2688766244073,"25",grand réservoir,,"1",,0,0,0,0,0,inconnue,"1",,"1900",Niouc,EP_Z_4,inconnue,,"0",,./0.png
+7.55672081051481,46.2688302152124,"26",grand réservoir,,"1",,0,0,0,0,0,imprécis,"2",,"1900",Niouc,EP_Z_4,,,"0",,./0.png
+7.59284108300702,46.2548438394433,"27",grand réservoir,,"1",,0,0,0,0,0,inconnue,"1",,"1900",Chandolin,EP_Z_2,,,"0",,./0.png
